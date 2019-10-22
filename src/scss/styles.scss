@@ -14,3 +14,18 @@
 .nav-link:hover {
   text-decoration: underline;
 }
+
+.jumbotron {
+  background-size: cover;
+  background: #ffffff url("../img/pirate-ship.jpg") no-repeat fixed;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: gray;
+  color: black;
+  text-align: center;
+}
