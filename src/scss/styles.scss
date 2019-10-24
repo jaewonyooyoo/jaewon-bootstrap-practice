@@ -16,8 +16,15 @@
 }
 
 .jumbotron {
-  background-size: cover;
+  // background-size: cover;
   background: #ffffff url("../img/pirate-ship.jpg") no-repeat fixed;
+  background-size: 100% 100%;
+  font-family:'Liu Jian Mao Cao', cursive;
+  color: white;
+}
+
+h3 {
+  font-family:'Liu Jian Mao Cao', cursive;
 }
 
 .footer {
